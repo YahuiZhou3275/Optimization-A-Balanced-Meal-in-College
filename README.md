@@ -1,18 +1,21 @@
 # Optimization-A-Balanced-Meal-in-College
 
 ## Introduction
+The project will involve investigating the following dataset:
+The Grain Bowl Station macronutrients at Union Market
 
-Our research objective is to find the impacts of the Covid-19 pandemic on human-nature interactions based on the analysis of 3,204 valid data gained from online surveys over a pool of informed Vermont residents over the age of 18. We utilize the dataset published by the authors which were collected from this survey. 
- 
-The paper mainly uses Multinomial Logistic Regression for each of the top six popular activities among the respondents. Based on the main logistic
-regression method, this paper identifies socio-demographic patterns by using the more-widely engaged-in activities. After generating six separate multinomial logistic regression, we plan to evaluate the accuracy of model fit by generating p-value, Chi-square, Pearson, and Deviance statistics. The model we used is the multinomial logistic regression, which is discussed in the second half of the STAT 3302. 
+We want apply a linear programming model to solve college diet problem. Here, we mainly consider macronutrients – carbohydrates, proteins, and fats. We will only use the grain bowl (priced by weight) at Union Market on the OSU campus as an example of where the student can eat from. We get our data about the grain bowl station macronutrients on the website Net Nutrition. Given a student’s gender, height, weight, and age, type of meal, and activity level we can calculate the recommended calories and macronutrients they need to take each day from the website Macro Calculator. Since our college students have limited budgets, our objective is to minimize the cost of the meal.
 
 ## Files
 - README.md
-- data.xlsx: the dataset of the Covid-19 pandemic on human-nature interactions
-- COVID-19 and human-nature relationships.Rmd: the R code
-- Final Report - Group Project.pdf: the final report 
+- Union Market Nutrition Data.xlsx: the dataset of the Grain Bowl Station macronutrients at Union Market
+- A Balanced Meal in College.ipynb: the code in Python
+- Project Proposal.pdf: project proposal
+- Final Presentation.pdf: the final report 
 
 ## Reference
-Work Citation:
-Morse JW, Gladkikh TM, Hackenburg DM, Gould RK (2020) COVID-19 and human-nature relationships: Vermonters’ activities in nature and associated nonmaterial values during the pandemic. PLoS ONE 15(12): e0243697. https://doi.org/10.1371/journal.pone.0243697
+https://www.thejakartapost.com/life/2016/09/27/how-to-calculate-your-ideal-calorie-intake.html
+https://www.nal.usda.gov/programs/fnic#:~:text=How%20many%20calories%20are%20in,provides%209%20calories%20per%20gram.
+https://www.omnicalculator.com/health/meal-calorie#:~:text=25%2D30%25%20of%20daily%20calories,of%20daily%20calories%20for%20dinner
+https://www.omnicalculator.com/health/bmr-harris-benedict-equation
+https://www.k-state.edu/paccats/Contents/PA/PDF/Physical%20Activity%20and%20Controlling%20Weight.pdf
