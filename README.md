@@ -15,15 +15,16 @@ We want apply a linear programming model to solve college diet problem. Here, we
 - Project Video: https://youtu.be/rGU-bhA38wU
 
 ## Reference
-Net Nutrition:
-https://dining.osu.edu/NetNutrition/1#\
-Equation for Calories:
-https://www.thejakartapost.com/life/2016/09/27/how-to-calculate-your-ideal-calorie-intake.html\
-Calories per gram for carbohydrate, protein, and fat:
-https://www.nal.usda.gov/programs/fnic#:~:text=How%20many%20calories%20are%20in,provides%209%20calories%20per%20gram.\
-Meal calories percentage:
-https://www.omnicalculator.com/health/meal-calorie#:~:text=25%2D30%25%20of%20daily%20calories,of%20daily%20calories%20for%20dinner\
-Harris-Benedict Calculator :
-https://www.omnicalculator.com/health/bmr-harris-benedict-equation\
-Activity level multiplier:
-https://www.k-state.edu/paccats/Contents/PA/PDF/Physical%20Activity%20and%20Controlling%20Weight.pdf\
+Net Nutrition:\
+https://dining.osu.edu/NetNutrition/1#
+Equation for Calories:\
+https://www.thejakartapost.com/life/2016/09/27/how-to-calculate-your-ideal-calorie-intake.html
+Calories per gram for carbohydrate, protein, and fat:\
+https://www.nal.usda.gov/programs/fnic#:~:text=How%20many%20calories%20are%20in,provides%209%20calories%20per%20gram.
+Meal calories percentage:\
+https://www.omnicalculator.com/health/meal-calorie#:~:text=25%2D30%25%20of%20daily%20calories,of%20daily%20calories%20for%20dinner
+Harris-Benedict Calculator: \
+https://www.omnicalculator.com/health/bmr-harris-benedict-equation
+Activity level multiplier: \
+https://www.k-state.edu/paccats/Contents/PA/PDF/Physical%20Activity%20and%20Controlling%20Weight.pdf
+
