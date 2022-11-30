@@ -16,7 +16,7 @@ We want apply a linear programming model to solve college diet problem. Here, we
 
 ## Reference
 Net Nutrition:\
-https://dining.osu.edu/NetNutrition/1#
+https://dining.osu.edu/NetNutrition/1# \
 Equation for Calories:\
 https://www.thejakartapost.com/life/2016/09/27/how-to-calculate-your-ideal-calorie-intake.html
 Calories per gram for carbohydrate, protein, and fat:\
