@@ -12,6 +12,7 @@ We want apply a linear programming model to solve college diet problem. Here, we
 - A Balanced Meal in College.ipynb: the code in Python
 - Project Proposal.pdf: project proposal
 - Final Presentation.pdf: the final report 
+- Project Video: https://youtu.be/rGU-bhA38wU
 
 ## Reference
 https://www.thejakartapost.com/life/2016/09/27/how-to-calculate-your-ideal-calorie-intake.html
