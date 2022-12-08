@@ -11,6 +11,7 @@ We want apply a linear programming model to solve college diet problem. Here, we
 - Union Market Nutrition Data.xlsx: the dataset of the Grain Bowl Station macronutrients at Union Market
 - A Balanced Meal in College.ipynb: the code in Python
 - Project Proposal.pdf: project proposal
+- Final Presentation.pdf: the final presentation slides
 - Final Presentation.pdf: the final report 
 - Project Video: https://youtu.be/rGU-bhA38wU
 
